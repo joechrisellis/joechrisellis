@@ -1,6 +1,6 @@
 ### Hello :wave:
 
-I'm a software engineer at [Arm](https://www.arm.com/) based in Manchester.
+I'm a software engineer based in Manchester.
 
 More about me on my [website](https://joechrisellis.com).
 
