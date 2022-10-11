@@ -1,5 +1,5 @@
 ### Hello :wave:
 
-I'm a software engineer at [Monzo](https://github.com/monzo) based in Manchester.
+I'm a software engineer at [Monzo](https://github.com/monzo).
 
-> 🐝 🏦 🛠
+> 🏹 🏦 🛠
